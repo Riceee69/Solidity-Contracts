@@ -1,0 +1,1 @@
+Casino built using Chainlink's VRF function to induce randomness, very secure as the randomness is generated outside of blockchain.

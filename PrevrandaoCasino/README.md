@@ -1,0 +1,1 @@
+A casino smart contract with randomness implemented with ```block.prevrandao``` 

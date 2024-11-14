@@ -1,0 +1,1 @@
+A casino built using hash commitments to provide security and increase fairplay
